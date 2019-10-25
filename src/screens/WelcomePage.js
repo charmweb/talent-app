@@ -10,7 +10,7 @@ import {
 } from "react-native";
 import { FontAwesome, Ionicons } from "@expo/vector-icons";
 import { LinearGradient } from "expo-linear-gradient";
-import Influencers from "../../assets/images/Influencers";
+import Influencers from "../../assets/images/active/Influencers";
 import { preventAutoHide } from "expo/build/launch/SplashScreen";
 
 export default function App() {
